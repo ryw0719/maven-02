@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.wt.maven.HelloMavenTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\WTRDPROJECTS\java_work\maven-02\target\test-classes;D:\WTRDPROJECTS\java_work\maven-02\target\classes;D:\Program Files\ServerFiles\maven\repository\junit\junit\4.12\junit-4.12.jar;D:\Program Files\ServerFiles\maven\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.6\bin"/>
+    <property name="sun.java.command" value="C:\Users\renyongwei\AppData\Local\Temp\surefire16615394022552562551\surefirebooter-20230308190754808_3.jar C:\Users\renyongwei\AppData\Local\Temp\surefire16615394022552562551 2023-03-08T19-07-54_285-jvmRun1 surefire-20230308190754808_1tmp surefire_0-20230308190754808_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\WTRDPROJECTS\java_work\maven-02\target\test-classes;D:\WTRDPROJECTS\java_work\maven-02\target\classes;D:\Program Files\ServerFiles\maven\repository\junit\junit\4.12\junit-4.12.jar;D:\Program Files\ServerFiles\maven\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\renyongwei"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\WTRDPROJECTS\java_work\maven-02"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\renyongwei\AppData\Local\Temp\surefire16615394022552562551\surefirebooter-20230308190754808_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.6+8-LTS"/>
+    <property name="user.name" value="renyongwei"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="D:\Program Files\ServerFiles\maven\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\RENYON~1\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.1.4"/>
+    <property name="java.version" value="11.0.6"/>
+    <property name="user.dir" value="D:\WTRDPROJECTS\java_work\maven-02"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.6\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\SAP\EasyDmsInterface\Unicode;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Users\renyongwei\platform-tools;C:\Program Files\dotnet;D:\Windows Kits\10\Include\10.0.17763.0\shared;D:\Windows Kits\10\Include\10.0.17763.0\ucrt;D:\Windows Kits\10\Include\10.0.17763.0\um;D:\Windows Kits\10\Include\10.0.17763.0\winrt;;D:\Windows Kits\10\Lib\10.0.17763.0\ucrt\x86;D:\Windows Kits\10\Lib\10.0.17763.0\um\x86;C:\Program Files (x86)\Qualcomm\QIKTool\1.0.120.1;D:\cygwin64\bin;C:\Program Files\Git\cmd;D:\Program Files\PuTTY\;C:\Program Files\dotnet\;D:\Program Files\TortoiseSVN\bin;D:\ProgramData\Anaconda3;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;D:\ProgramData\Anaconda3\Library\mingw-w64\bin;D:\ProgramData\Anaconda3\Library\usr\bin;D:\Program Files\ServerFiles\protoc-3.13.0-win64\bin;C:\Program Files\Java\jdk-11.0.6\bin;D:\Program Files\CMake\bin;D:\Program Files\ServerFiles\apache-maven-3.9.0-bin\apache-maven-3.9.0\bin;C:\Program Files\SAP\EasyDmsInterface\Unicode;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.6+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\Program Files\ServerFiles\maven\repository"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="m1" classname="com.wt.maven.HelloMavenTest" time="0.004"/>
+</testsuite>
